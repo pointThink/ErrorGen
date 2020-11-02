@@ -41,7 +41,7 @@ MsgLabel = Label(main, text="Error Message")
 TitleInput = Entry(main)
 MsgInput = Entry(main)
 
-IconError = Radiobutton(main, text="Error", variable=icon, value=1)
+IconError = Radiobutton(main, text="Critical Error‎‎‎‎‎", variable=icon, value=1)
 IconWarning = Radiobutton(main, text="Warning", variable=icon, value=2)
 IconQuestion = Radiobutton(main, text="Question", variable=icon, value=3)
 IconInfo = Radiobutton(main, text="Information", variable=icon, value=4)
@@ -54,10 +54,10 @@ MsgLabel.grid(row=1, column=0)
 TitleInput.grid(row=0, column=1)
 MsgInput.grid(row=1, column=1)
 
-IconError.grid(row=2, column=0)
+IconError.grid(row=3, column=0,)
 IconWarning.grid(row=2, column=1)
-IconQuestion.grid(row=3, column=0)
-IconInfo.grid(row=3, column=1)
+IconQuestion.grid(row=3, column=1)
+IconInfo.grid(row=2, column=0)
 
 GenerateButton.grid(row=4, column=0)
 
