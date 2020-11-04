@@ -1,8 +1,8 @@
 # Description
 ErrorGen is a program written in python 3.8 designed to create fake error messages
 Now you can skip online class beacuse of "computer problems" yay!
-
-<img src="screenshots/screenshot.png" alt="Screenshot">
+<img src="screenshots/screenshot.png" alt="Screenshot
+<img src="Screenshots/screenshot.png" alt="there should be an image here...">>
 
 # Creating executable from source code
 For this you will need:
