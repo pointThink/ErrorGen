@@ -4,7 +4,7 @@ Now you can skip online class beacuse of "computer problems" yay!
 
 <img src="Screenshots/screenshot.png" alt="Hello there">
 
-# Creating executable from source code
+## Creating binary from source code
 For this you will need:
 
 Python (obviously)
@@ -22,6 +22,6 @@ Change directory to the src folder
 
 Enter command: pyinstaller -F -i icon.ico errorgen.pyw
 
-The executable should appear in the dist folder
+The file should appear in the dist folder
 
 P.S Make sure the blank.ico file is in the same folder as the executable
