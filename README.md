@@ -4,10 +4,10 @@ Now you can skip online class beacuse of "computer problems" yay!
 
 <img src="Screenshots/screenshot.png" alt="Hello there">
 
-## Creating binary from source code
+### Creating binary from source code
 For this you will need:
 
-Python (obviously)
+Python 3 (obviously)
 
 PyInstaller (install with: pip install pyinstaller)
 
